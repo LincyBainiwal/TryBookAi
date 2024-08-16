@@ -55,7 +55,7 @@ const Prices = () => {
               <Typography
                 variant="h1"
                 color="white"
-                className="mt-6 flex justify-center gap-1 text-7xl font-normal"
+                className="mt-6 flex justify-center gap-1 text-4xl font-normal"
               >
                 <span className="mt-2 text-4xl">$</span>{plan.price}{" "}
                 <span className="self-end text-4xl">{plan.billing}</span>
