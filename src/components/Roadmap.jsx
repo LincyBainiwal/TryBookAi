@@ -44,6 +44,7 @@ const Roadmap = () => {
               <h2 className="text-xl font-semibold">{item.title}</h2>
               <p className="text-gray-300">{item.description}</p>
             </div>
+          
           </div>
         ))}
       </div>
